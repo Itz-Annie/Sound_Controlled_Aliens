@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgb(105, 198, 221) 0%, pink 50%, rgb(118, 207, 118) 100%);
+}
+.header_div{
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: bold;  
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    font-family: 'Satisfy', cursive;
+
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    font-family: 'Teko', sans-serif;
+}
+#note{
+    font-family: 'Oswald', sans-serif;
+}
+#heading{
+    font-family: 'Pacifico', cursive;
+}
+#result_lable{
+    font-family: 'Caveat', cursive;
+}
+#result_accuracy{
+    font-family: 'Shadows Into Light', cursive;
+
+}
